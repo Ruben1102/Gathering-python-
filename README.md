@@ -6,11 +6,11 @@ hosts, open ports/ banners, and employee names from different public sources
 
  - Modules that need API keys to work:
 ----------------------------------
--googleCSE: You need to create a Google Custom Search engine(CSE), and add your
- Google API key and CSE ID in the plugin (cuslib/googleCSE.py)
+- googleCSE: You need to create a Google Custom Search engine(CSE), and add your
+- Google API key and CSE ID in the plugin (cuslib/googleCSE.py)
 
 
 Dependencies:
 ------------
--Requests library (http://docs.python-requests.org/en/latest/)
+- Requests library (http://docs.python-requests.org/en/latest/)
 `pip install requests`
